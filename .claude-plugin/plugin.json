@@ -1,0 +1,17 @@
+{
+  "name": "founder-discipline-public",
+  "version": "0.2.0",
+  "description": "Helps an indie founder avoid their own known failure patterns, enforce discipline rules before committing resources, and score business ideas against weighted personal criteria.",
+  "author": {
+    "name": "Contributors"
+  },
+  "keywords": [
+    "founder",
+    "discipline",
+    "validation",
+    "kill-criteria",
+    "decision-making",
+    "failure-patterns"
+  ],
+  "license": "MIT"
+}

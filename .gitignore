@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Packaging artifacts
+*.plugin
+*.zip
+
+# Personal config files (never commit user data)
+# These are generated at ~/.claude/founder-discipline/ on each user's machine
+# and should NEVER appear in the repo
+failure-patterns.md
+business-criteria.md
+kill-criteria.md
+
+# Exception: keep the TEMPLATES and reference templates (they're part of the plugin)
+!templates/failure-patterns.template.md
+!templates/business-criteria.template.md
+!templates/kill-criteria.template.md
+!skills/kill-criteria-enforce/references/kill-criteria-template.md
